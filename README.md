@@ -1,1 +1,1 @@
-recursive
+test remote
